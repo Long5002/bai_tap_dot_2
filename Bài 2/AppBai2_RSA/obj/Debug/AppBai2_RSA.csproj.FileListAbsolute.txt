@@ -1,0 +1,9 @@
+D:\study\python\exe\BtThCop2\Bài 2\AppBai2_RSA\obj\Debug\AppBai2_RSA.csproj.AssemblyReference.cache
+D:\study\python\exe\BtThCop2\Bài 2\AppBai2_RSA\obj\Debug\AppBai2_RSA.Properties.Resources.resources
+D:\study\python\exe\BtThCop2\Bài 2\AppBai2_RSA\obj\Debug\AppBai2_RSA.csproj.GenerateResource.cache
+D:\study\python\exe\BtThCop2\Bài 2\AppBai2_RSA\obj\Debug\AppBai2_RSA.csproj.CoreCompileInputs.cache
+D:\study\python\exe\BtThCop2\Bài 2\AppBai2_RSA\bin\Debug\AppBai2_RSA.exe.config
+D:\study\python\exe\BtThCop2\Bài 2\AppBai2_RSA\bin\Debug\AppBai2_RSA.exe
+D:\study\python\exe\BtThCop2\Bài 2\AppBai2_RSA\bin\Debug\AppBai2_RSA.pdb
+D:\study\python\exe\BtThCop2\Bài 2\AppBai2_RSA\obj\Debug\AppBai2_RSA.exe
+D:\study\python\exe\BtThCop2\Bài 2\AppBai2_RSA\obj\Debug\AppBai2_RSA.pdb
